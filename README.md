@@ -2,6 +2,11 @@
 
 
 
+## Required
+
+- Linux (tested Ubuntu 18.04), not working on windows
+- beautifulsoup4, PIL, numpy
+
 ## Disclaimer
 
 다운로드받은 파일은 개인 소장용으로만 이용해야 하며, 재배포 또는 판매할 수 없습니다.
